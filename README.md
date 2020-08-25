@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <br />
 
-⚡ Fun fact: this commit was my 2020th contribution in year 2020!! Check screenshot below:
+⚡ Fun fact: I created this repo and the initial commit was my 2020th contribution in year 2020!! Check screenshot below:
 
 <br />
 
