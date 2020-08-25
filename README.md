@@ -12,5 +12,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<br />
+
+⚡ Fun fact: this commit was my 2020th contribution in year 2020!! Check screenshot below:
+
+<br />
+
+<img src="assets/Screenshot 2020-08-25 at 22.34.29.png" />
+
