@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <br />
 
-<img src="assets/Screenshot 2020-08-25 at 22.34.29.png" />
+<img src="assets/Screenshot_2020-08-25_at_22.34.29.png" />
 
