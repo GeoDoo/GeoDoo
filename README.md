@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-<br />
-
-⚡ Fun fact: I created this repo and the initial commit was my 2020th contribution in year 2020!! Check screenshot below:
+⚡ Fun fact: I created this secret repo and the initial commit was my 2020th contribution in the year 2020!! What a coincidence, right? Check screenshot below:
 
 <br />
 
