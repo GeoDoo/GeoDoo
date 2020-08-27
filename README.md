@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-⚡ Fun fact: I created this secret repo and the initial commit was my 2020th contribution in the year 2020!! What a coincidence, right? Check screenshot below:
+⚡ Fun fact: I created this secret repo and the initial commit was my 2020th contribution in the year 2020, the year of covid-19!! What a coincidence, right? Check screenshot below:
 
 <img src="https://github.com/GeoDoo/GeoDoo/blob/master/assets/Screenshot_2020-08-25_at_22.34.29.png?raw=true" />
