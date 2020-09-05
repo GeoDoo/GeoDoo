@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-A pragmatic, business focused, result oriented and architecturally minded Senior Frontend developer with leadership experience. Proven self-starter, having individually taken projects from conception to completion. Practitioner of agile methodologies who exhibits professionalism with strong team ethics and communication skills.
+A pragmatic, business focused, result oriented and architecturally minded Senior Frontend developer with leadership experience. Proven self-starter, having individually taken projects from conception to completion. Practitioner of agile methodologies who exhibits professionalism with strong team ethics and communication skills. <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Georgios%20Karametas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgekarametas/)](https://www.linkedin.com/in/georgekarametas/)
 
 ### 🛠️ Languages & Tools
 
