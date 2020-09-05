@@ -14,7 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-A pragmatic, business focused, result oriented and architecturally minded Senior Frontend developer with leadership experience. Proven self-starter, having individually taken projects from conception to completion. Practitioner of agile methodologies who exhibits professionalism with strong team ethics and communication skills. 
+A pragmatic, business focused, result oriented and architecturally minded Senior Frontend developer with leadership experience. Proven self-starter, having individually taken projects from conception to completion. Practitioner of agile methodologies who exhibits professionalism with strong team ethics and communication skills.
+
+### 🛠️ Languages & Tools
+
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Mac](https://img.shields.io/badge/-apple-333333?style=for-the-badge&logo=apple)
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+
+### 📈 **Github Stats**
+
+<a href="https://github.com/GeoDoo">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoDoo&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/GeoDoo/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeoDoo&layout=compact&theme=blue-green" />
+</a>
+
+<br />
+
+🌱 I’m currently learning Clojure and ClojureScript
+
+<br />
 
 ⚡ Fun fact: I created this secret repo and the initial commit was my 2020th contribution in the year 2020, the year of covid-19!! What a coincidence, right? Check screenshot below:
 
