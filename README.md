@@ -29,12 +29,14 @@ A pragmatic, business focused, result oriented and architecturally minded Senior
 
 ### 📈 **Github Stats**
 
-<a href="https://github.com/GeoDoo">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoDoo&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
-<a href="https://github.com/GeoDoo/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeoDoo&layout=compact&theme=blue-green" />
-</a>
+<p>
+  <a href="https://github.com/GeoDoo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoDoo&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+  </a>
+  <a href="https://github.com/GeoDoo/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GeoDoo&layout=compact&theme=blue-green" />
+  </a>
+</p>
 
 <br />
 
