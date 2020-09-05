@@ -31,10 +31,10 @@ A pragmatic, business focused, result oriented and architecturally minded Senior
 
 <p>
   <a href="https://github.com/GeoDoo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoDoo&show_icons=true&include_all_commits=true&theme=merko&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoDoo&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true">
   </a>
   <a href="https://github.com/GeoDoo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoDoo&layout=compact&theme=merko" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoDoo&layout=compact&theme=gruvbox" />
   </a>
 </p>
 
