@@ -31,6 +31,9 @@ A pragmatic, business focused, result oriented and architecturally minded Senior
 ![Docker](https://img.shields.io/badge/-docker-101c29?style=for-the-badge&logo=docker)
 ![Slack](https://img.shields.io/badge/-slack-4a154b?style=for-the-badge&logo=slack)
 
+![Emacs](https://img.shields.io/badge/-emacs-622486?style=for-the-badge&logo=gnu-emacs)
+![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux)
+
 ### 📈 **Github Stats**
 
 <p>
