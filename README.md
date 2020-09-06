@@ -29,7 +29,6 @@ A pragmatic, business focused, result oriented and architecturally minded Senior
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-101c29?style=for-the-badge&logo=docker)
-![Mac](https://img.shields.io/badge/-apple-333333?style=for-the-badge&logo=apple)
 ![Slack](https://img.shields.io/badge/-slack-4a154b?style=for-the-badge&logo=slack)
 
 ### 📈 **Github Stats**
