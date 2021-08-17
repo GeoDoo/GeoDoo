@@ -34,7 +34,7 @@ A pragmatic, business focused, result oriented and architecturally minded Senior
 ![Jira](https://img.shields.io/badge/-jira-2684ff?style=for-the-badge&logo=jira)
 ![Slack](https://img.shields.io/badge/-slack-4a154b?style=for-the-badge&logo=slack)
 
-![Emacs](https://img.shields.io/badge/-emacs-622486?style=for-the-badge&logo=gnu-emacs)
+![Emacs](https://img.shields.io/badge/-emacs-622486?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux)
 
 ### 📈 **Github Stats**
