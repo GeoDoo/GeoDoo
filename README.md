@@ -24,6 +24,7 @@ A pragmatic, business focused, result oriented and architecturally minded Senior
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Clojure](https://img.shields.io/badge/-Clojure-63b132?style=for-the-badge&logo=clojure)
+![C++](https://img.shields.io/badge/-C++-63b132?style=for-the-badge&logo=c++)
 ![PHP](https://img.shields.io/badge/-Php-2a2a2a?style=for-the-badge&logo=php)
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
