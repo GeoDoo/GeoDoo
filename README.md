@@ -24,6 +24,7 @@ A pragmatic, business focused, result oriented and architecturally minded Lead F
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Elm](https://img.shields.io/badge/-Elm-000000?style=for-the-badge&logo=elm)
+![Haskell](https://img.shields.io/badge/-Haskell-532575?style=for-the-badge&logo=haskell)
 ![Clojure](https://img.shields.io/badge/-Clojure-63b132?style=for-the-badge&logo=clojure)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/-Php-2a2a2a?style=for-the-badge&logo=php)
