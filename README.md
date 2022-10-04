@@ -37,16 +37,6 @@ A pragmatic, business focused, result oriented and architecturally minded Lead F
 ![Emacs](https://img.shields.io/badge/-emacs-622486?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux)
 
-### 📈 **Github Stats**
-
-<p>
-  <a href="https://github.com/GeoDoo">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GeoDoo&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoDoo&layout=compact&theme=gruvbox" />
-  </a>
-</p>
-
-🌱 I’m currently learning/playing around with Clojure and C++! It is so much fun! <br />
 ⚡ Fun fact: the initial commit of this repo was my 2020th contribution in the year 2020, the year of covid-19!! Check screenshot below:
 
 <img src="https://github.com/GeoDoo/GeoDoo/blob/master/assets/Screenshot_2020-08-25_at_22.34.29.png?raw=true" />
